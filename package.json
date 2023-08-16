@@ -12,7 +12,9 @@
     "pinia": "^2.1.4",
     "socket.io-client": "^4.7.2",
     "vue": "^3.3.4",
+    "vue-color-kit": "^1.0.6",
     "vue-router": "^4.2.4",
+    "vuetify": "^3.3.12",
     "ws": "^8.13.0"
   },
   "devDependencies": {
